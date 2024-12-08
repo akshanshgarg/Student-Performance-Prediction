@@ -2,8 +2,8 @@ pandas
 numpy
 seaborn
 scikit-learn
-catboost
 dill
 xgboost
 Flask
+catboost
 -e .
